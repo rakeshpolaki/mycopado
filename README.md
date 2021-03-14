@@ -1,0 +1,2 @@
+# mycopado
+Setup copado, mycopado
